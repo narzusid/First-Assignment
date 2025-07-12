@@ -121,3 +121,28 @@ margin-bottom: 24px;
 footer{
   background-color: #FFFFFF;
 }
+/*fOOTER SECTION 2*/
+
+.end-link{
+  text-decoration: none;
+  color: #8987A1;
+}
+.end{
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px 100px;
+  
+}
+.foo-title{
+  font-size: 60px;
+  color: #4E47FF;
+  font-weight: bold;
+}
+.foo-des{
+  color: #8987A1;
+}
+.end-items{
+  display: flex;
+  justify-content: space-around;
+}
