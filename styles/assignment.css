@@ -9,17 +9,21 @@
 nav{
     display: flex;
     justify-content: space-between;
-    background: url('../Assets/Hero-bg.png');
+    
+}
+header{
+  background-image: url('../Assets/Hero-bg.png');
 }
 .nav-title{
     color: #4E47FF;
     font-weight: bolder;
+    font-size: 34px;
 }
 .nav-btn{
   background-color: #4E47FF; 
   color: #fff;              
   border: none;             
-    padding: 10px 20px;
+  padding: 10px 20px;
   border-radius: 6px;       
   cursor: pointer;         
   font-size: 14px;         
@@ -28,7 +32,7 @@ nav{
 .banner-title{
     text-align: center;
     color: #252432;
-    background: url('../Assets/Hero-bg.png');
+    
     
 }
 .banner-btn{
@@ -49,8 +53,8 @@ background-color: #4E47FF;
   
 }
 .action-description{
-  color:#252432;
-  font-size: 24px;
+  color:#252432
+  font-size: 34px;
 }
 .action-title{
   color: #252432;
