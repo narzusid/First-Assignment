@@ -80,3 +80,44 @@ background-color: #4E47FF;
 .item-description{
   padding: 0;
 }
+/* Touch Styles*/
+.touch{
+  padding: 130px 230px;
+  display: flex;
+  gap: 100px;
+}
+.touch-form{
+  width: 50%;
+  
+}
+.b1{
+  height: 40px;
+  border-radius: 5px;
+display: block;
+width: 100%;
+padding: 10px 20px;
+margin-bottom: 24 px;
+
+}
+.b2{
+  height: 40px;
+  border-radius: 5px;
+  display: block;
+  width: 100%;
+padding: 10px 20px;
+margin-bottom: 24px;
+}
+.b3{
+  height: 64px;
+  border-radius: 5px;
+  display: block;
+  width: 100%;
+padding: 10px 20px;
+margin-bottom: 24px;
+}
+.touch-title{
+  font-size: 50px;
+}
+footer{
+  background-color: #FFFFFF;
+}
