@@ -146,3 +146,33 @@ footer{
   display: flex;
   justify-content: space-around;
 }
+/* Challenge*/
+.icon{
+  display: flex;
+
+}
+.che-end{
+  display: flex;
+  justify-content: space-around;
+}
+.all-one{
+  max-width: 200px;
+  margin: 0 auto;
+  padding: 50px 100px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0ox 6px 50px 0px bisque; 
+}
+.etitle{
+  text-align: center;
+  font-size: 30px;
+}
+.alada{
+  color: darkgray;
+}
+.ala{
+  color: dimgray;
+}
+.together{
+  display: flex;
+}
