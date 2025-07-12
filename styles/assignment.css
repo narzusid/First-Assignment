@@ -46,6 +46,7 @@ background-color: #4E47FF;
   display: flex;
   justify-content: space-between;
   padding: 20px;
+  
 }
 .action-description{
   color:#252432;
@@ -54,4 +55,28 @@ background-color: #4E47FF;
 .action-title{
   color: #252432;
   font-weight: bold;
+}
+/*Production-Section*/
+
+.production{
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px 100px;
+  background-color:#DBDAEE;
+}
+.pro-items{
+  display: flex;
+  justify-content: space-around;
+}
+.pro-title{
+  color: #252432;
+}
+.item-title{
+  color: #4E47FF;
+  font-weight: bolder;
+  font-size: 50px;
+}
+.item-description{
+  padding: 0;
 }
